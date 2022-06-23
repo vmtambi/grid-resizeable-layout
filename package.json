@@ -1,7 +1,7 @@
 {
-  "name": "react-grid-layout",
-  "version": "1.2.5",
-  "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+  "name": "grid-resizeable-layout",
+  "version": "1.0.0",
+  "description": "A duplicate of react-grid-layout.",
   "main": "index.js",
   "scripts": {
     "lint": "make lint",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:vmtambi/grid-resizeable-layout.git"
   },
   "keywords": [
     "react",
