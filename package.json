@@ -1,6 +1,6 @@
 {
   "name": "grid-resizeable-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A duplicate of react-grid-layout.",
   "main": "index.js",
   "scripts": {
